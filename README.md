@@ -1,4 +1,4 @@
-# Stuff - Products
+# Stuff - The fake store using micro-services
 
 ## About
 Stuff is a fake store illustrating the use of [micro services](http://martinfowler.com/articles/microservices.html)
