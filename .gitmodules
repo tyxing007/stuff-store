@@ -1,0 +1,9 @@
+[submodule "stuff-products"]
+	path = stuff-products
+	url = https://github.com/markstgodard/stuff-products
+[submodule "stuff-cart"]
+	path = stuff-cart
+	url = https://github.com/markstgodard/stuff-cart
+[submodule "stuff-storefront"]
+	path = stuff-storefront
+	url = https://github.com/markstgodard/stuff-storefront
