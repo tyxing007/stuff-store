@@ -7,3 +7,6 @@
 [submodule "stuff-storefront"]
 	path = stuff-storefront
 	url = https://github.com/markstgodard/stuff-storefront
+[submodule "stuff-orders"]
+	path = stuff-orders
+	url = https://github.com/markstgodard/stuff-orders.git
