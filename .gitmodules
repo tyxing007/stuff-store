@@ -10,3 +10,6 @@
 [submodule "stuff-orders"]
 	path = stuff-orders
 	url = https://github.com/markstgodard/stuff-orders.git
+[submodule "stuff-logging-elk"]
+	path = stuff-logging-elk
+	url = https://github.com/markstgodard/stuff-logging-elk
