@@ -1,6 +1,6 @@
 # Stuff
 ## About
-Stuff is a *fake store* illustrating the use of [micro services](http://martinfowler.com/articles/microservices.html)
+Stuff is a **fake store** illustrating the use of [micro services](http://martinfowler.com/articles/microservices.html)
 
 ![alt text](https://raw.githubusercontent.com/markstgodard/stuff-store/master/shop.png "Shop Stuff")
 
