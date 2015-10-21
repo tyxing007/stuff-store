@@ -13,4 +13,15 @@ microservices projects used to run the store.
 - Payments
 - Notifications
 
+## Prerequisites
+This example application uses
+- Spring Boot
+- Spring Cloud / Netflix
+  - Eureka
+  - Ribbon
+  - Hystrix
+- Redis
+- RabbitMQ
+
+
 Don't try and actually buy stuff.
