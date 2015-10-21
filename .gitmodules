@@ -16,3 +16,6 @@
 [submodule "stuff-service-registry"]
 	path = stuff-service-registry
 	url = https://github.com/markstgodard/stuff-service-registry.git
+[submodule "stuff-api-gateway"]
+	path = stuff-api-gateway
+	url = https://github.com/markstgodard/stuff-api-gateway.git
