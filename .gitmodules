@@ -13,3 +13,6 @@
 [submodule "stuff-logging-elk"]
 	path = stuff-logging-elk
 	url = https://github.com/markstgodard/stuff-logging-elk
+[submodule "stuff-service-registry"]
+	path = stuff-service-registry
+	url = https://github.com/markstgodard/stuff-service-registry.git
